@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/impressum/</loc>
+    <lastmod>2023-11-09T12:25:23+01:00</lastmod>
+  </url><url>
+    <loc>/kontakt/</loc>
+    <lastmod>2023-11-09T12:25:16+01:00</lastmod>
+  </url><url>
+    <loc>/pfarrei/</loc>
+    <lastmod>2023-11-09T12:24:59+01:00</lastmod>
+  </url><url>
+    <loc>/orgel/</loc>
+    <lastmod>2023-11-09T12:23:05+01:00</lastmod>
+  </url><url>
+    <loc>/domchor/</loc>
+    <lastmod>2023-11-09T12:22:59+01:00</lastmod>
+  </url><url>
+    <loc>/verein/</loc>
+    <lastmod>2023-11-09T12:22:54+01:00</lastmod>
+  </url><url>
+    <loc>/kujchor/</loc>
+    <lastmod>2023-11-09T12:03:24+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
